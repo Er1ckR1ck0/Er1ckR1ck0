@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
@@ -44,6 +44,6 @@
   * Creating services for companies
   ---
   
-  [<img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/@EgorRychkov)
+  [<img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/EgorRychkov)
 
 </div>
