@@ -28,9 +28,6 @@
 👥 **Followers:** 1  
 🔗 **Following:** 6  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er1ckR1ck0&show_icons=true&count_private=true&theme=radical)
-
-
 <pre>
 Thx for watching,
                  _      _         _      _     ___  
