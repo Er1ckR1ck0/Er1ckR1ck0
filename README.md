@@ -31,10 +31,8 @@
 
   ### 📊 GitHub Stats
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Er1ckR1ck0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er1ckR1ck0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph"  />
-  </div>
+| <img src="https://github-readme-stats.vercel.app/api?username=Er1ckR1ck0&show_icons=true&theme=tokyonight&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er1ckR1ck0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" /> |
+| :---: | :---: |
 
   <br/>
 
@@ -46,6 +44,6 @@
   * Creating services for companies
   ---
   
-  [<img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/ТВОЙ_НИК_ТЕЛЕГРАМ)
+  [<img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/@EgorRychkov)
 
 </div>
