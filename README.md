@@ -1,5 +1,7 @@
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+    body {
+        font-family: 'JetBrains Mono', monospace !important;
+    }
 </style>
 <div>
   # Hi there, I'm Egor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
