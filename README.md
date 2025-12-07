@@ -52,9 +52,10 @@
   > SYSTEM_DIAGNOSTICS
 </h2>
 <div align="left" style="font-family: 'Courier New', monospace;">
-  <code style="border: 1px solid #ff00ff; padding: 5px; color: #ff00ff;">🏆 PUBLIC REPOS: 5</code><br>
-  <code style="border: 1px solid #00ff99; padding: 5px; color: #00ff99;">👥 NET_FOLLOWERS: 1</code><br>
-  <code style="border: 1px solid #00ffff; padding: 5px; color: #00ffff;">🔗 FOLLOWING_NODES: 6</code>
+  <code style="border: 1px solid #ff00ff; padding: 5px; color: #ff00ff;">🏆 PUBLIC REPOS: 6</code><br>
+  <code style="border: 1px solid #00ff99; padding: 5px; color: #00ff99;">👥 NET_FOLLOWERS: 2</code><br>
+  <code style="border: 1px solid #00ffff; padding: 5px; color: #00ffff;">🔗 FOLLOWING_NODES: 8</code>
+  <code style="border: 1px solid #ff00ff; padding: 5px; color: #ff00ff;">⭐ STARS: 2</code><br>
 </div>
 
 <br>
