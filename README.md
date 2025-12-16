@@ -51,7 +51,6 @@
 <h2 style="color: #00ffff; text-align: left;">
   > SYSTEM_DIAGNOSTICS
 </h2>
-<br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Er1ckR1ck0&show=reviews&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=eeeeee&icon_color=66ccff&bg_color=00000000&hide_border=true" /><img alt="Er1ckR1ck0's github stats" src="https://github-readme-stats.vercel.app/api?username=alvaro17f&show=reviews&hide=stars&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=666666&icon_color=66ccff&hide_border=true" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Er1ckR1ck0&hide_title=true&hide_border=true&layout=compact&text_color=eeeeee&bg_color=00000000"><img alt="Er1ckR1ck0's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro17f&hide_title=true&hide_border=true&layout=compact"></picture>
 
 <p style="color: #555; font-size: 12px;">> End of transmission. Thx for watching.</p>
