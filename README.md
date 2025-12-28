@@ -64,4 +64,3 @@
 <p style="color: #555; font-size: 10px;">[ CONNECTION TERMINATED ]</p>
 
 </div>
-<div style="color: #17181c; fantasize: 6px;">шнеле пэпэ ватафа</div>
