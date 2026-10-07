@@ -23,7 +23,7 @@
 </h3>
 <div align="left" style="background-color: #0a0a0a; border: 1px solid #333; padding: 10px; box-shadow: inset 0 0 15px #000;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,fastapi,github,graphql,grpc,postgres,mongodb,linux,docker,redis,firebase,supabase,rest&perline=8&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,rust,fastapi,github,graphql,postgres,mongodb,linux,docker,redis,firebase,supabase,k8s&perline=8&theme=dark" alt="My Skills"/>
   </a>
 </div>
 
